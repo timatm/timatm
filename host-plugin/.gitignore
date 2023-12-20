@@ -1,0 +1,13 @@
+# bin
+*.tiff
+data/
+
+
+# build
+build/
+**/*.so
+**/*.o
+**/*.out
+
+# tmp
+__pycache__
